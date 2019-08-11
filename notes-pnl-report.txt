@@ -1,0 +1,451 @@
+Notes PNL Report
+
+@misc{UndergroundPumpedHydroelectricStorage,
+  author = "{Allen, R.D., Doherty, T.J., and Kannberg, L.D., for the Pacific Northwest Laboratory, sponsored by the United States DOE}",
+  title = "Underground pumped hydroelectric storage",
+  year = "1984",
+  howpublished = "\url{https://www.osti.gov/biblio/6517343}",
+  note = "[Online; accessed 17-June-2019; also available as \url{https://www.osti.gov/servlets/purl/6517343.pdf}]"
+}
+
+
+Outline:
+Projects today:
+$m^3$
+
+%
+
+A typical conceptual UPHS plant would have a capacity of 1000 to
+3000 MW, an operating head of 1000 to 2000 m, and a reservoir storage
+capability of 8 to 10 hr generation at full load. An upper reservoir
+capacity of about 8 million m 3 is contemplated.
+
+
+https://www1.nyc.gov/site/dep/water/ashokan-reservoir.page
+"the reservoir holds 122.9 billion gallons at full capacity"
+
+Ashokan Reservoir
+465 million m3
+
+"Including the water it receives from Schoharie Reservoir, Ashokan Reservoir supplies about 40\% of New York City’s daily drinking water needs in non-drought periods."
+
+
+Domestic cities that are relatively near known favorable bedrock formations include Atlanta, Baltimore, Boston, Buffalo, Chicago, Cleveland, Denver, Los Angeles, Louisville, Milwaukee, Minneapolis-St. Paul, Omaha, Phoenix, Portland (Oregon), Sacramento, St. Louis, San Diego, San Francisco, Seattle, Tucson, and Washington( D.C.).
+
+
+
+The total direct cost of a UPHS plant is estimated at $500 x 10^6 for a
+1000-MW plant in 1983 dollars.
+
+Inflation from 1983 to 2019 = 2.57 https://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1.00&year1=198306&year2=201906
+
+$500 x 10^6 for a
+1000-MW plant in 1983 dollars.
+= 1,285,000,000
+
+~$1.3 Billion
+
+
+
+Underground pumped hydroelectric storage
+has a relatively long construction schedule, so financing costs and escalation can significantly increase cost. This is a substantial commitment for
+even a large utility. The justification for such a plant requires high
+confidence in utility load predictions, accurate cost estimating, and
+excellent predictability of plant performance. Beyond the techni ca 1
+considerations, however, the quality of the bond market and availability of
+support through a utility consortium may ultimately determine economic
+practi cabi 1 i ty.
+
+
+
+The underground construction involved does not introduce new techno1 ogy. because experience in this type of work is we 11 defined. The 1 arge
+volume of rock to be removed--7 ,400,000 m3 (g,700,000 yd3)--lengthens the
+construction period over that of conventional pumped storage by 3 to
+3-1/2 yr. which also increases AFDC.
+
+
+Underground pumped hydroelectric storage compares favorably with
+conventional pumped storage. The construction costs were found to be
+essentially the same [i.e., in the range of $300 to $350/kW (1978
+dollars)]. Operating and maintenance (O&M) costs are essentially the same,
+possibly favoring UPHS.
+
+(300 to 350) *  4.37
+about $1315 to $1530
+
+
+Underground pumped hydroelectric storage should appeal to a utility
+company in lieu of conventional pumped storage in that it minimizes siteselection and acceptance problems; develops greater head and capacity; is
+more applicable in water-scarce areas; and lowers transmission costs and
+line losses by being located near load centers.
+
+
+Proven boring techniques are available with which to confirm geologic site suitability.
+
+
+
+Assuming a 4-yr filling period (half the expected construction
+period), an average filling flow of 57 l/sec (2 cfs) is required.
+(8 year construction estimate)
+
+
+
+Four vertical shafts, averaging about 1200 m (4000 ft) in depth, are
+required for a typical UPHS plant:
+• a penstock shaft connecting the upper reservoir to the pump-turbines
+• a lower reservoir vent shaft
+• a shaft for primary surface access, including equipment transport, to
+the underground powerhouse
+• a shaft from the surface for power cables and other lines and secondary access to the underground powerhouse.
+
+
+
+Sedimentary rocks that are flat bedded, well lithified, and structurally undeformed are most advantageous for UPHS. In this category is rock
+such as limestone, dolomite, impervious sandstone and pre-Cretaceous
+indurated sha 1 es.
+
+Devonian Age limestone (~400 Million years ago is pre-cretaceous. Cretaceous is ~100 Million years ago.)
+https://mrdata.usgs.gov/geology/state/sgmc2-unit.php?unit=NYDou;3
+
+
+After excavation, the remaining rock should be able to stand alone or
+with only minimal support.
+
+
+
+2.3 POTOMAC ELECTRIC POWER COMPANY STUDY (1981) The study was sponsored by the Department of Energy and the Electric Power Research Institute. This study is, without a doubt, the definitive design study for UPHS and wi 11 pro vi de the baseline against which a 11 UPHS development in the future will be referenced.
+
+
+
+2.3.3 Pumped Storage Plant Layout
+A single
+penstock wi 11 connect the upper (surface) reservoir to the pump-turbine
+units located in a powerhouse at the intermediate level. These units will
+connect to an intermediate-level reservoir from which another single
+penstock will lead to the pump-turbine units located in a powerhouse at the
+lower level. Three 333-i~W pump-turbine/motor-generator units will be
+installed in the intermediate powerhouse and three 333-MW units in the
+lower powerhouse. Step-up transformation from generator voltage to 500 kV
+will be carried out underground; galleries containing the required
+equipment will be located directly above and in line with the powerhouse
+caverns. The SF6 gas-insulated bus will provide the power circuit connection to the surface. The various excavated powerhouses, reservoirs, and
+galleries will be accessible only by vertical shafts from the surface.
+
+The vertical penstocks will have diameters of 5.8 m (19ft) and be
+designed for a maximum flow of 153 m3;sec (5400 cfs). Construction of
+these and other shafts will be accomplished by sinking from the surface
+using conventional drilling and blasting methods.
+
+Provision will also be made for bulkhead gate isolation of the 3.5-m (ll.5-ft) diameter concrete-lined draft
+tube outlet tunnels to allow unit unwatering for inspection/maintenance.
+All auxiliary systems normally required for pumped storage installations
+will be provided with the special features necessary for operation deep
+under ground.
+
+
+The economic feasibility of the UPHS concept will depend substantially
+on the ability to rapidly excavate 5 to 6 million m
+3 (7 to 8 million yd3)
+of rock from substantial depths. The necessary level of performance
+2.25
+appears to be well within reach of modern construction practice. Excavations of equivalent volumes of rock have been made previously from a
+variety of host rocks, and integrity with time has been clearly established.
+
+
+The required excavation will be in the form of 12 tunnels of substantia 1 cross section, 26 x 20 m ( 85 x 65 ft), interconnected by smaller air
+and water collector tunnels at the extreme ends of the reservoir system.
+The excavation volume will be 6,012,900 m
+3 (7,860,000 yd 3), which will
+allow 2.3% for "safety" storage to prevent overfilling of the lower reservoir, and a further 0.3% for freeboard.
+
+They will be constructed at grades that allow free drainage upon dewatering.
+Rock support wi 11 be provided by
+patterns of rock bolts in the crown and walls of the tunnels augmented by
+mesh and shotcrete as required.
+
+
+-----
+
+2.4 COMMONWEALTH EDISON/HARZA STUDY (1975 to 1981)
+for a 3000-MW, 30,000-MWh project.
+
+The site selected by Cmmnonwealth Edison in its service territory is
+attractive, and has been demonstrated to be technically feasible for a UPHS
+project. The UPHS project appears to be cost-effective and competitive
+with oil-fired cycling and peaking generation.
+
+Commonwealth Edison's UPHS study was suspended in January 1980 when
+revised load growth projections deferred the anticipated service date.
+This deferral provides an excellent opportunity for further development
+work on ultra high-head pump-turbines.
+
+
+2.5 FIFTEEN HUNDRED-METER PUMP-TURBINE STUDY
+Because excavation
+of the lower reservoir is a dominant cost factor, high heads are necessary
+to decrease the required reservoir volume.
+
+3.2 EQUIPMENT/RESERVOIR ARRANGEMENTS
+The UPHS design is determined by operating head limits on turbomachinery or "drop" and the excavation economics of the lower reservoir{s).
+
+Preliminary design studies by Acres American, Inc. (1976) evaluated
+relative direct cost factors for four of the five arrangements.
+Figure 10 gives direct costs for a 2000-MW 10-hr plant design using 300-MW or larger machinery units. The
+most economical and practical range, from 3500 to 5000 ft of operating head
+(1100 to 1500 m), indicates two-stage reversible pump-turbines as the
+preferred machinery. Effects of powerhouse and shaft design, development
+feasibility, and reservoir design were considered.
+
+
+Water in the surface
+reservoir may be contaminated with biota that may develop on the walls of
+the lower reservoir chambers. Seepage through the bottom of the surface
+reservoir may impact the local water table. Seepage of the penstock's
+water column into adjacent rock formations may adversely affect aquifer
+water quality and/or rock structural stability. (Lack of containment
+within the surface reservoir, penstock or the lower reservoir could result
+in flooding problems in the powerhouse.) The pumping mode will transfer
+geothermal and frictional heat to the upper reservoir. Most potential
+problems can be overcome by careful site selection and proper construction
+planning. Other environmental concerns involve construction activities,
+land use, transmission corridors, increased baseload plant use, and
+atmospheric fogging.
+
+
+Chiu and colleagues (1979) state that the premium fuel savings by a
+UPHS plant over an estimated 50-yr life would more than offset the high
+initial cost.
+Power system and balance-of-plant casts can be reasonably
+estimated because the equipment is identical to that used in conventional pumped storage.
+
+
+4.0 CURRENT AND FUTURE COMMERCIAL STATUS
+Despite optimistic forecasts of technical and economic feasibility, so
+far no utility has committed funds to the design and construction of a UPHS
+plant. According to a recent survey, some feasibility studies have shown
+capital cost estimates somewhat greater than for conventional storage
+(Battelle Colunbus Laboratories 1982). Accepting these assessments, even
+though UPHS has some environmental advantages over conventional pumped
+storage, higher cost remains an impediment to significant rna rket
+penetration in the near future.
+
+
+Report ends with:
+
+plan details
+
+Two-stage, reversible, regulated pump-turbines are the most promising conceptually for heads of 1000 to 1500 m and unit capacities to 500 MW.
+
+
+The total direct cost of a UPHS plant is estimated at $500 x 106 for a
+1000-MW plant in 1983 dollars.
+
+The lower reservoir of the UPHS plant represents a relatively significant proportion (about 30%)
+
+The nominal operating head can be
+developed in one or more 11 Steps 11 , each applied to an individual pumping/
+generating plant; this can increase overall nominal operating head and
+consequently reduce lower reservoir size.
+
+
+Quoting from:
+2.1 CHARLES T. MAIN STUDY (1978)
+
+The costs for the three scherres ranged from $318/kW to $346/kW [1977
+dollars, excluding allowance for funds during construction (AFDC) and escalation
+
+Total estimated cost of the multistage reversible unit
+scheme, the most advantageous, was $636,500,000 (at the 1977 price level)
+including contingencies, engineering, supervision, and overhead but
+excluding AFOC and escalation.
+
+In 2019 dollars
+$2,786,923,000 -- about 2.8 billion.
+The Bureau of Labor Statistics
+https://data.bls.gov/cgi-bin/cpicalc.plant
+
+The underground construction involved does not introduce new techno1 ogy. because experience in this type of work is we 11 defined. The 1 arge
+volume of rock to be removed--7 ,400,000 m3 (g,700,000 yd3)--lengthens the
+construction period over that of conventional pumped storage by 3 to
+3-1/2 yr. which also increases AFDC.
+(allowance for funds during construction)
+
+A reservoir with storage capacity to stare a water supply for 20,000
+MWH at 1200-m (4000-ft) head is typical of the UPHS projects judged most
+feasible. The volume of such a reservoir is 7.9 million m
+3 (6400 acre-ft),
+so that if its average depth is 10m (33ft), its area will be 81 ha (200
+acres or 0. 31 sq mi).
+
+Such a reservoir requires no unusual topography. The material required to be excavated from the mined lower reservoir should be more than
+sufficient to form the structural enclosure for the upper reservoir.
+
+Assuming a 4-yr filling period (half the expected construction
+period), an average filling flow of 57 l/sec (2 cfs) is required. This is
+the normal average surface water runoff rate from a drainage area of 3.5 sq
+km (1.35 sq mi) in a typical temperate zone.
+
+(see above for shaft info)
+
+
+-----
+2.3 POTOMAC ELECTRIC POWER COMPANY STUDY (1981)
+
+The study was sponsored by the Department of Energy and the Electric Power
+Research Institute. This study is, without a doubt, the definitive design
+study for UPHS and wi 11 pro vi de the baseline against which a 11 UPHS
+development in the future will be referenced.
+
+Basic requirements:
+a generating capacity of 2000 MW
+a level of energy storage that would permit generation at full output
+for 10 hr
+
+The study established a preference for a "two-step" arrangement with each
+step consisting of a 1000-MW plant operating at a nominal head of 762 m
+(2500 ft). This enabled adoption of an overall nominal operating head of
+1525 m (5000 ft).
+
+The facility was arranged to permit construction in two
+phases, the first to provide 1333 M'W of generating capacity and the second
+phase to complete the remaining 667 MW of capacity.
+
+Two-thirds of the
+lower reservoir will be excavated during the first phase of construction,
+with the remainder being completed during the second phase (Willett 1981).
+
+
+It is located at Sunshine, Maryland, southwest of
+the Triadelphia Reservoir in Montgomery County, approximately 20 mi north
+of Washington, D.C., and about 20 mi southwest of Baltimore, Maryland. The
+site covers approximately 500 acres and is crossed by a 500-kV transmission
+line owned by PEPCO.
+
+geologic mapping was
+The second part of the investigation involved a deep drilling
+program, with continuous rock coring together with an in-hole testing
+program to determine stress conditions and permeability levels and to
+provide a geophysical log of the formation.
+
+
+(determine bedrock overlay depth)
+
+
+... nonregulating multistage pump-turbines designed in
+accordance with very high head pump practice and accommodating heads of
+over 1220 m (4000 ft) with four- or five-stage machines has been developed
+in Europe.
+
+Multiple designs were considered and determined to be feasible. Chosen:
+The PEPCO study was finally based on an SSRPT-2 arrangement with an
+over a 11 nomina 1 head of 1525 m ( 5000 ft). Each step consisted of three
+pump-turbine/motor-generator sets, each of 333-i-M rating and each operating
+at 720 rpm under a nominal head of 762 m (2500 ft).
+
+(room for tech improvement)
+
+
+Three 333-i~W pump-turbine/motor-generator units will be
+installed in the intermediate powerhouse and three 333-MW units in the
+lower powerhouse.
+Step-up transformation from generator voltage to 500 kV
+will be carried out underground;
+
+The SF6 gas-insulated bus will provide the power circuit connection to the surface. The various excavated powerhouses, reservoirs, and
+galleries will be accessible only by vertical shafts from the surface.
+
+
+In addition to the vertical penstock shaft leading from the upper
+reservoir intake/outflow structure to the pumped storage plants below, four
+other shafts will be constructed ranging in depth from 1525 to 1677 m (5000
+to 5500 ft). Three of these shafts will contain hoisting conveyances, SF6
+bus for main power transmission, and control cables. The fourth, an air
+vent shaft, will allow atmospheric air admission to and from the lower and
+intermediate reservoirs.
+
+The vertical penstocks will have diameters of 5.8 m (19ft) and be
+designed for a maximum flow of 153 m3;sec (5400 cfs).
+
+Construction of
+these and other shafts will be accomplished by sinking from the surface
+using conventional drilling and blasting methods.
+
+
+The penstock walls will
+have rock bo 1 t support and a permanent concrete 1 i ni ng provided with a
+drainage system. The penstocks will turn to the horizontal at the powerhouse levels, and concrete-lined manifolds will form three 3.35-m (11-ft)
+diameter penstocks at each level. An 88-m (290-ft) length of the penstocks
+upstream from the powerhouses will be lined with 7-cm (2 3/4-in.) thick
+high-strength steel lines that have flanged connection penstock valves
+upstream of the pump-turbine spiral cases.
+
+the nominal head on each of the two
+powerhouses will be limited to 762 m (2500 ft).
+
+ the intermediate reservoir will have sufficient capacity to
+accept a vo 1 ume of "storage" equi va 1 ent to the fu 11 discharge of three
+pump-turbine units operating for 15 min.
+
+both steps: "identical layout and design".
+
+ Each will accommodate three 333-ivfW motorgenerator units with associated pump-turbines operating at 720 rpm and
+equipped with 1.64-m (64.6-in.) diameter spherical penstock valves. governors, and facilities for pump starting with a static frequency converter.
+
+Provision will also be made for bulkhead gate isolation of the 3.5-m (ll.5-ft) diameter concrete-lined draft
+tube outlet tunnels to allow unit unwatering for inspection/maintenance.
+
+The economic feasibility of the UPHS concept will depend substantially
+on the ability to rapidly excavate 5 to 6 million m
+3 (7 to 8 million yd3)
+of rock from substantial depths.
+
+The necessary level of performance appears to be well within reach of modern construction practice. Excavations of equivalent volumes of rock have been made previously from a variety of host rocks, and integrity with time has been clearly established.
+
+
+
+The required excavation will be in the form of 12 tunnels of substantial cross section, 26 x 20 m ( 85 x 65 ft), interconnected by smaller air and water collector tunnels at the extreme ends of the reservoir system.
+
+The excavation volume will be 6,012,900 m^3 (7,860,000 yd 3), which will
+allow 2.3% for "safety" storage to prevent overfilling of the lower reservoir, and a further 0.3% for freeboard. Two-thirds of this volume will be
+provided for the first phase, and the remainder will be constructed to
+complete the plant in Phase 2. The main tunnels in the lower reservoir
+will be oriented with their axes approximately perpendicular to the strike
+of the rock foliation, since this will provide more desirable conditions
+for rock support of the larger spans. The interconnecting tunnels will be
+of small cross section and can be safely constructed with the less desirable rock conditions in line with the strike of the rock foliation. All of
+the storage caverns within the lower reservoir will have curved side walls
+to reduce tensile stress zones. They will be constructed at grades that
+a 11 ow free drainage upon dewatering. Rock support will be provided by
+patterns of rock bolts in the crown and walls of the tunnels augmented by
+mesh and shotcrete as required. The final design will depend on future
+exploratory work and on experience gained in the development of the initial
+underground facilities. Provision will be made for isolation of any one third of the reservoir with "stoplogs" to permit reservoir cavern inspection without disrupting plant operation.
+
+
+
+Blenhaim-Gilboa 1000  200 776 776
+
+-------
+@misc{HydropowerBaselineCostModeling,
+4.4. Pumped Storage Hydropower (PSH)
+Based on a sample of 83 pumped hyrdo projects
+
+ The project
+capacities range from 760 kW to 2,000 MW with an average value of 755 MW. The
+
+Figure 19c suggests that per kW, ICC does not decrease
+noticeably as the project capacity increases, and the hydraulic head is not strongly correlated
+with ICC (Figure 19d)
+
+
+(ICC in 2012$; P in MW; H in ft)
+𝐼𝐶𝐶 (𝑖𝑛 2012$) = 2,442,817 𝑃^0.959 -->
+2,442,817 * 2000^.959
+2,442,817 * 1464.49457028
+3,577,492,232.69
+
+converted to 2019
+$3,993,191,210
+3.99 Billion in 2019 dollars
+
+

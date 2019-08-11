@@ -1,0 +1,154 @@
+\section{Appendix}
+
+\subsection{Calculations for Heavy Piston Design}
+As mentioned above, a company called Gravity Power is developing an energy storage design which involves a heavy piston suspended in a vertical shaft filled with water. The system employs a closed loop of water with a pump and a power generator. The system can cycle water in both directions. Energy is expended to lift the piston by pumping water under it. Energy can be recaptured by allowing the weight of the piston to push the water back up through a turbine. When the piston falls, the water gathers in the space above the piston.
+
+With these assumptions about the piston design, our calculations below demonstrate that this design should be less efficient than underground pumped hydro energy storage.
+
+Let's begin with the basic equation for gravitational potential energy where E is energy, m is mass, g is the gravitational constant, and h is height.
+\[ E = mgh \]
+We replace mass with volume times density ($\rho$) where volume is represented by the height (h) times area (a).
+\[ E = (h*a*\rho)*g*h \]
+
+The piston design system includes two densities. We will define the density of the rock piston as ($\rho_p$) and the density of the water as ($\rho_w$).
+
+The piston and water volumes both occupy the entire cross section area of the shaft. The potential energy of each piece depends on each of their heights and the distance (d) that each travels. We must remember that when the piston drops, the water is lifted above the piston. So the water's potential energy must be subtracted from the piston's. Using subscripts $_p$ for piston and $_w$ for water, we have:
+\[ E_{net} = (h_p*a*\rho_p)*g*d_p - (h_w*a*\rho_w)*g*d_w  \]
+
+We introduce f as the fraction of the shaft height which the piston will occupy. We can then translate the heights of the piston ($h_p$) and height traveled by the piston ($d_p$) as functions of f.
+\[ h_p = hf \ , \ d_p = h-hf \]
+
+Because the water occupies the rest of the volume around the piston, we can also define the height of the water and the height traveled by the water as:
+\[ h_w = h-hf\ , \ d_w = hf \]
+
+These are naturally the inverse values as the piston, because each element must travel the distance of the other's height to balance the volume of the closed system.
+
+Now let's revisit our Energy equation and begin substitution.
+\[ E_{net} = (h_p*a*\rho_p)*g*d_p - (h_w*a*\rho_w)*g*d_w  \]
+
+Refactoring, we have:
+\[ E_{net} = ag(\rho_p(hf)(h-hf) - \rho_w(h-hf)(hf)) \]
+We note the common factor of $(hf)(h-hf)$, and refactor again.
+\[ E_{net} = ag((hf)(h-hf)(\rho_p - \rho_w)) \]
+
+Since rock is about 2.5 denser than water we have
+\[ \rho_p = 2.5\rho_w \]
+So
+\[ E_{net} = ag((hf)(h-hf)(2.5\rho_w - \rho_w)) \]
+Simplifying
+\[ E_{net} = ag(fh^2 - h^2f^2)(1.5\rho_w) \]
+Refactoring
+\[ E_{net} = 1.5ag\rho_wh^2(f - f^2) \]
+
+Inspecting this equation, we see that the maximal f value is .5. So we conclude that the piston should be half the height of the shaft. This gives us:
+\[ E_{net} = 1.5ag\rho_wh^2(.5 - (.5)^2) \]
+or
+\[ E_{net} = 0.375ag\rho_wh^2 \]
+
+Now let's compare this result to the potential Energy $E_{PHES}$ of the shaft filled with just water and no rock piston. We note that the water will, on average, only rise half the height of the shaft as it empties to ground level at the top of the shaft. We use our equation above but with new values for water using a subscript u. So our water has a height $h_u$ and distance traveled $d_u$.
+
+\[ E_{PHES} = (h_u*a*\rho_w)*g*d_u \]
+The water is the full height of the column and will travel half the height on average.
+\[ h_u = h \ , \ d_u = .5h \]
+So we have
+\[ E_{PHES} = ag\rho_w(h)(.5h) \]
+or
+\[ E_{PHES} = .5ag\rho_wh^2 \]
+We can see that this is an improvement over $E_{net}$ for the piston design. With common values for $ag\rho_wh^2$, the improvement of PHES over this piston design appears to be
+\[ (0.5 / 0.375) - 1 = 0.\bar3 \]
+
+In other words, UPHS should give an improvement of about 33\% over this piston design. With this result, the piston design does not seem to be compelling alternative to UPHS.
+
+\subsection{Calculation of New York City Daily Energy Usage}
+New York State's Total Annual Energy usage in 2017 was about 905 trillion Btu\cite{NewYorkStateEnergyProfile}. This is equivalent to 265,229,319 MWh.
+
+According to the New York Times, “nearly 60 percent of the state’s electricity is consumed in the New York City area.” \cite{HowNewYorkCityGetsItsElectricity} This number is validated by the eia.gov report which says “two-thirds of the state's power demand is in the New York City and Long Island region” \cite{NewYorkStateEnergyProfile}. So we will use 60\% and consider this the New York City Area not including Long Island. This gives us
+\[ 265,229,319MWh * .6  / 365 \approx 435,993MWh \]
+
+The New York City area consumes approximately 435,993MWh of power daily, or
+\[ 435,993MWh / 24 \approx 18,166MWh \]
+18,166MWh per hour
+
+New York City has pledged to have 500 MW of storage available by 2025. But as we can see
+\[ 500MW * 1 hour / 18,166MWh \approx 0.0275 \approx 2.8\% \]
+
+This will only yield about 2.8\% of NYC's total power consumption in storage energy.
+
+
+\subsection{Calculation of Vertical Shaft Volume and Cost}
+In the PNL report, it was estimated that the lower reservoir of a UPHS installation might have a volume of about 6,012,900 $m^3$. The volume of the vertical shafts is not given, but the dimensions are. The PNL report mentions there could be 4 shafts with diameters of 5.8 m ranging in depth from 1525 to 1677 m. \cite{UndergroundPumpedHydroelectricStorage} We'll use 1600 m as an average value. This gives us an estimated volume for each shaft:
+\[ \pi r^2 * h = \pi (5.8 / 2)^2 * 1600 \approx 42,273 m^3\]
+
+We note that according to these estimates, the mined vertical volume is less than 1\% of the total volume.
+\[ 42,273 m^3 / (6,012,900 m^3 + 42,273 m^3) \approx 0.007 \]
+
+The PNL report estimates that the lower reservoir of a UPHS plant would likely represent about 30\% of the overall project cost. \cite{UndergroundPumpedHydroelectricStorage} Given that the vertical shafts represent less than 1\% of the overall mined volume, we will use a rough estimation that mining in general represents about 30\% of the overall cost.
+
+
+\subsection{Calculation of LCOE for UPHS}
+We start with our original estimated cost of UPHS construction which is \$1,300,000,000.
+
+To determine our LCOE, we'll use NREL's formula for Simple Levelized Cost of Energy.
+
+\begin{displayquote}
+sLCOE = {(overnight capital cost * capital recovery factor + fixed O\&M cost) / (8760 * capacity factor)} + (fuel cost * heat rate) + variable O\&M cost. \cite{SimpleLevelizedCostOfEnergyCalculator}
+\end{displayquote}
+
+We'll remove variable O\&M cost and fuel cost. We assume a capacity factor of 30\%. We define overnight capital cost as $C_i$ dollars per installed kilowatt (\$/kW). As assume a lifetime of 40 years. We'll assume the fixed O\&M costs are (2.5\% * $C_i$) dollars per kilowatt-year (\$/kW-yr). We define capital recovery factor as CRF, which per NREL is defined as the following where i is the interest rate and n is the number of years.
+\[ \displaystyle CRF={\frac {i(1+i)^{n}}{(1+i)^{n}-1}} \]
+
+This gives us:
+\[ LCOE = ((C_i * CRF) + (.025 * C_i)) / (8760 * .3) \]
+
+We will assume a conservative rate of 10\% interest. At 10\% interest over 40 years, our CRF is about 0.1023
+\[ \displaystyle CRF={\frac {0.03(1+0.03)^{40}}{(1+0.03)^{40}-1}} \]
+
+Which gives us:
+\[ LCOE = (0.1023C_i + .025C_i) / 2628 \]
+which reduces to
+\[ LCOE \approx 0.00004844 C_i \]
+
+Using our initial cost above, we determine our value of $C_i$ in dollars per installed kilowatt. Our value is for a 1,000MW capacity plant (1,000,000kW).
+
+\[ C_i = \$1,300,000,000 / 1,000,000kW = \$1300/kW\]
+
+This gives us a LCOE of about \$0.063/kW, or \cent 6.3/kW
+\[ LCOE \approx \$(0.00004844 * 1300)/kW \approx \$0.063/kW \]
+
+
+\subsection{Calculation of LCOE for UPHS (Optimistic)}
+Here we will re-calculate the above LCOE using more optimistic predictions. The original estimated cost of UPHS construction was \$1,300,000,000. We speculate that this cost could be feasibly lowered by 25\% if a UPHS plant was built onto an existing dam. This brings the cost down to \$975,000,000.
+
+We divide this into two costs: The cost of tunneling and everything else.
+
+Tunneling was estimated to be 30\% of \$1.3 billion, or \$390 Million
+\[ \$1,300,000,000 * .3 = \$390,000,000\]
+
+Subtracting this out from the base cost, we see that non-tunnel costs are \$585 Million.
+\[ \$975,000,000 - \$390,000,000 = \$585,000,000\]
+
+As discussed previously, we presume that tunneling costs could be 5 times cheaper thanks to technological efficiencies which reduces tunnel costs to \$78 Million.
+\[ \$390,000,000 / 5 = \$78,000,000\]
+
+Adding these costs back together we get \$663 Million.
+\[ \$78,000,000 + \$585,000,000 = \$663,000,000 \]
+
+We take note that this price is just about half of our original estimated construction cost.
+\[  \$663,000,000  / \$1,300,000,000 = .51 \approx .5 \]
+
+To determine our LCOE, we'll use the same NREL formula mentioned above. We'll again remove variable O\&M cost and fuel cost. We'll assume a lifetime of 80 years which is reasonable for PHS. All other assumptions are the same including a capacity factor of 30\%.
+
+As discussed above, the current 30 Year US Treasury Rate is very low at 2.26\%. We will use an optimistic value of 3\% interest. At 3\% interest over 80 years, our CRF is about 0.03311.
+\[ \displaystyle CRF={\frac {0.03(1+0.03)^{80}}{(1+0.03)^{80}-1}} \]
+
+Which gives us:
+\[ LCOE = (0.03311C_i + .025C_i) / 2628 \]
+which reduces to
+\[ LCOE \approx 0.000022113 C_i \]
+
+Using our initial cost above, we determine our value of $C_i$ in dollars per installed kilowatt. Our value is for a 1,000MW capacity plant (1,000,000kW).
+
+\[ C_i = \$663,000,000 / 1,000,000kW = \$663/kW\]
+
+This gives us a LCOE of about \$0.015/kW, or \cent 1.5/kW
+\[ LCOE \approx \$(0.000022113 * 663)/kW \approx \$0.015/kW \]

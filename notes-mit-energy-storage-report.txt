@@ -1,0 +1,55 @@
+https://www.cell.com/action/showPdf?pii=S2542-4351%2819%2930300-9
+
+see also https://arpa-e.energy.gov/sites/default/files/1c_Ferrara_2017_1207%20ARPA-E%20Workshop%20TE%20Presentation%20With%20Back-Up.pdf
+
+Our analysis accounts for inter- and intra-year variation in the solar and wind resources and covers several locations with different levels of resource availability.
+This work extends beyond studies using data on a single year or a typical
+year13,18,19 by using twenty years of wind and solar resource data to capture the variations that may occur over a lifetime of a power plant.20–24 Moreover, we consider
+the effect of combining wind and solar energy to take advantage of the complementarity in their resource availability over time.
+
+
+PHS and CAES, tend to have low energy capacity costs....However, both technologies also have geographical constraints due to the uneven availability of the required aboveground and underground features, which may inhibit further deployment. Moreover, while mechanical storage is scalable to large sizes, its energy density is considerably lower than electrochemical storage, and thus aboveground systems have larger spatial footprints.
+
+Electrochemical energy storage technologies face different limitations, including higher energy capacity costs compared to PHS and CAES, which are exacerbated by degradation over time and the need for technology replacement. However, while every electrochemical technology degrades with use, those with exceptionally low energy capacity costs may allow a full replacement of the component chemicals with acceptable cost impact.
+
+
+The ability to install an electrochemical storage system in many locations is one of the technology’s greatest advantages as compared to PHS and CAES. But what is the potential for cost decline?
+
+
+Under some assumptions, these batteries could
+meet the energy capacity cost targets needed to provide electricity that is costcompetitive with traditional sources, particularly for systems that are located in
+resource-rich locations, use near-optimal renewable resource mixes, and have
+relaxed EAF requirements
+
+We note that the cost comparisons presented here do not account for external costs,28–30 including the costs of health
+and climate impacts, which can substantially increase the estimates of fossil-fuel
+based LCOEs given in Figures 8, 9, and 10.
+27
+
+
+When the EAF is relaxed, wind-solar systems with energy storage can reach competitiveness at higher storage costs. For example, allowing a system relying on an
+optimal wind-solar mix to fail to meet the specified output shape during 5% of hours
+(an EAF of 95%) enables it to reach cost-competitiveness with a nuclear baseload
+plant (electricity cost of $0.075/kWh) at storage capacity costs of $700/kW and
+$150/kWh (costs of Tech II) in Arizona and Texas, and nearly reach competitiveness
+in Iowa (Table S2)
+
+
+Conclusion...
+
+We find that achieving ultra-low storage energy capacity costs is one path for renewables plus storage to cost-competitively fill this role. The cost targets for storage
+depend on the location and output shapes, since these cost-minimizing systems
+require different storage sizes. For baseload plants, for example, we estimate that
+
+storage energy capacity costs would need to fall to roughly $10-20/kWh to reach
+cost-competitiveness with a nuclear fission plant, assuming a storage power capacity cost of $1,000/kW, if wind and solar are used together in an optimal mix. The
+lower end of the storage capacity cost range applies in Massachusetts and Iowa
+and the higher end applies in Texas and Arizona.
+
+
+Various studies have cited the potential for
+significant cost declines in currently available electrochemical storage technologies,
+such as Li-ion batteries,12,39,40 but it remains unclear whether the cost targets described
+here are achievable
+
+materials resource constraints w
