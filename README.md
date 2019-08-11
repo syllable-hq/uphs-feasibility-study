@@ -8,6 +8,8 @@ Version: DRAFT 0.0.1
 
 Published: (Not yet published. Draft 0 was released in August 2019)
 
+## The Report
+The report can be found here: <report.pdf>
 
 ## Summary
 This report discusses climate change and our growing need for energy storage. In particular, it discusses a particular technology called Underground Pumped Hydroelectric Storage.
@@ -16,12 +18,10 @@ As energy sources like wind and solar replace fossil fuels, energy storage deman
 
 Our report advocates for further exploration of this technology. And we suggest immediate development in locations which demonstrate profitability.
 
-## The Report
-The actual report can be found here: [report.pdf](report.pdf)
-
-The report is compiled using [LaTeX](https://www.latex-project.org/). The LaTeX base file is [underground-pumped-hydroelectric-storage-feasibility-study.tex](underground-pumped-hydroelectric-storage-feasibility-study.tex). This compiles to a pdf file by the same which is gitignored. This file is then saved as report.pdf for releases.
 
 ## Documentation
+The report is compiled using [LaTeX](https://www.latex-project.org/). The LaTeX base file is [underground-pumped-hydroelectric-storage-feasibility-study.tex](underground-pumped-hydroelectric-storage-feasibility-study.tex). This compiles to a pdf file by the same which is gitignored. This file is then saved as report.pdf for releases.
+
 To edit and compile the report, you will need to install some kind of LaTeX tool. I just use a plugin for sublime text editor. [LaTeXTools: A LaTeX Plugin for Sublime Text 2 and 3](https://latextools.readthedocs.io/en/latest/)
 
 ## Version History
