@@ -4,7 +4,7 @@ Title: Underground Pumped Hydroelectric Storage: A Feasibility Study
 
 Author: Eric Chaves, Syllable Technology and Design
 
-Version: DRAFT 0.0.1
+Version: DRAFT 0.0.2
 
 Published: (Not yet published. Draft 0 was released in August 2019)
 
@@ -27,6 +27,10 @@ The report is compiled using [LaTeX](https://www.latex-project.org/). The LaTeX 
 To edit and compile the report, you will need to install some kind of LaTeX tool. I just use a plugin for sublime text editor. [LaTeXTools: A LaTeX Plugin for Sublime Text 2 and 3](https://latextools.readthedocs.io/en/latest/)
 
 ## Version History
+### [0.0.2] - DRAFT 2019-08-12
+#### Added
+- Added TOC, made edits, finished draft of report with conclusion.
+
 ### [0.0.1] - DRAFT 2019-08-11
 #### Added
 - Initial Commit. Report mostly complete, but in need of editing.

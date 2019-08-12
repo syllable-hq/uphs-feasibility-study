@@ -5,6 +5,7 @@
 *.fls
 *.log
 *.bcf
+*.toc
 *.run.xml
 *.synctex.gz
 research-private.txt
