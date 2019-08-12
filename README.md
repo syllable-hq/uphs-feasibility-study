@@ -9,14 +9,16 @@ Version: DRAFT 0.0.1
 Published: (Not yet published. Draft 0 was released in August 2019)
 
 ## The Report
-The report can be found here: <report.pdf>
+The report can be found here: [report.pdf](report.pdf)
 
 ## Summary
 This report discusses climate change and our growing need for energy storage. In particular, it discusses a particular technology called Underground Pumped Hydroelectric Storage.
 
-As energy sources like wind and solar replace fossil fuels, energy storage demand is expected to grow exponentially. This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over long time frames of 40-80 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
+As energy sources like wind and solar replace fossil fuels, energy generation will become more variable, and this is expected to drive an exponential growth in demand for energy storage.
 
-Our report advocates for further exploration of this technology. And we suggest immediate development in locations which demonstrate profitability.
+This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over long time frames of 40-80 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
+
+Our report advocates for further exploration of underground pumped hydro technology. And we suggest immediate development of the technology on sites which may prove to support profitable installations.
 
 
 ## Documentation
@@ -30,18 +32,24 @@ To edit and compile the report, you will need to install some kind of LaTeX tool
 - Initial Commit. Report mostly complete, but in need of editing.
 
 ## Project Goals
-This report draft should be considered an "amateur" report at the current time. Syllable is a technology and design shop, but we do not have expertise in many of the fields discussed in this report. Furthermore, this report is unsponsored and was so far written on unpaid hours. We hope to partner with field experts to further develop this report in the future.
+This report is just a draft at the current time. Syllable is a technology and design shop, but we do not have expertise in many of the fields discussed in this report. We hope to partner with field experts to further develop this report in order to properly publish it in the future.
 
-We have many potential goals for this report:
-- To partner with field experts in order to evolve this report further.
-- To partner with companies interested in building the technology proposed in this report.
+We have multiple goals for this report:
+- To partner with field experts in order to further evolve this report and publish it.
+- To partner with companies interested in building underground pumped hydro technology. We are currently pursing warm introductions to the following partners.
+    - The Boring Company (Elon Musk and team): Relating to advanced tunnel boring technology.
+    - ConsenSys (Joseph Lubin team): Relating to token-funded non-profit projects.
+    - NY Green Bank. Relating to funding and partnerships.
+    - SUNY State University of New York: Relating to funding and partnerships.
+
+
 - To raise funds in order to support further work in this area.
     - Support us on [Patreon @syllable_labs](https://www.patreon.com/syllable_labs)
-    - Put us in touch with possible partners, email us at <hello@syllablehq.com>
+    - To put us in touch with possible partners, please email us at <hello@syllablehq.com>
 
 
 ## Corrections, Suggestions
-Please send corrections and suggestions to <eric@syllablehq.com>
+Please send corrections and suggestions to <eric@syllablehq.com>. Or if you do that git thang, feel free to fork-it-like-its-hot and open a pull request.
 
 
 ## Redactions
