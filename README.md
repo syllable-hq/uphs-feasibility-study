@@ -18,7 +18,7 @@ As energy sources like wind and solar replace fossil fuels, energy generation wi
 
 This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over long time frames of 40-80 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
 
-Our report advocates for further exploration of underground pumped hydro technology. And we suggest immediate development of the technology on sites which may prove to support profitable installations.
+As cited below, recent studies have concluded that stationary energy storage demand is expected to grow exponentially and require $662 billion of investment over the next two decades. Our report advocates that underground pumped hydro could capture much of this market away from Lithium Ion battery installations. We suggest further exploration of underground pumped hydro technology. And we suggest immediate development of the technology on sites which may be deemed suitable for profitable installations.
 
 
 ## Documentation
