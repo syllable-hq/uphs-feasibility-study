@@ -9,7 +9,8 @@
 **Published**: (Not yet published. Draft 0 was released in August 2019)
 
 ## The Report
-The report can be found here: [report.pdf](report.pdf)
+- Full report: [report.pdf](report.pdf)
+- Report summary: [Report Summary](https://docs.google.com/presentation/d/1EFg7fQ_jjPPCZWxUW-pokUQ_UCXMgvSn-oeTiowVLZs/edit?usp=sharing)
 
 ## Summary
 This report discusses climate change and our growing need for energy storage. In particular, it discusses a particular technology called Underground Pumped Hydroelectric Storage.
