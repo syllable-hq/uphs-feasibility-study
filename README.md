@@ -1,12 +1,12 @@
 # Underground Pumped Hydroelectric Storage Feasibility Study
 
-Title: Underground Pumped Hydroelectric Storage: A Feasibility Study
+**Title**: Underground Pumped Hydroelectric Storage: A Feasibility Study
 
-Author: Eric Chaves, Syllable Technology and Design
+**Author**: Eric Chaves, Syllable Technology and Design
 
-Version: DRAFT 0.0.3
+**Version**: DRAFT 0.0.3
 
-Published: (Not yet published. Draft 0 was released in August 2019)
+**Published**: (Not yet published. Draft 0 was released in August 2019)
 
 ## The Report
 The report can be found here: [report.pdf](report.pdf)
@@ -19,6 +19,13 @@ As energy sources like wind and solar replace fossil fuels, energy generation wi
 This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over a time frame of 40 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
 
 As cited below, recent studies have concluded that stationary energy storage demand is expected to grow exponentially and require $662 billion of investment over the next two decades. Our report advocates that underground pumped hydro could capture much of this market away from Lithium Ion battery installations. We suggest further exploration of underground pumped hydro technology. And we suggest immediate development of the technology on sites which may be deemed suitable for profitable installations.
+
+
+
+## Words of Inspiration
+> We only get one home. <br>We only get one planet. <br>There’s no plan B. <br> — President Barack Obama
+
+> We’re the first generation to feel the impact of climate change. <br> We’re the last generation that can do something about it. <br> — President Barack Obama
 
 
 ## Documentation
@@ -64,6 +71,6 @@ Please send corrections and suggestions to <eric@syllablehq.com>. Or if you do t
 Some sections of this report have been temporarily redacted until we have more time to consult with advisors and consider protecting some proprietary knowledge.
 
 ## Thanks
-Thanks for your interest and supporting mission driven work!
+Thanks for your interest and for supporting mission driven work!
 
-Syllable
+— Syllable
