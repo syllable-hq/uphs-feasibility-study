@@ -155,3 +155,28 @@ Using our initial cost above, we determine our value of $C_i$ in dollars per ins
 
 This gives us a LCOE of about \$0.015/kW, or \cent 1.5/kW
 \[ LCOE \approx \$(0.000022113 * 663)/kW \approx \$0.015/kW \]
+
+\subsection{Calculations for UPHS vs Li-ion}
+Li-ion batteries have a lifespan of only 5-10 years. \cite{The3BillionPlanToTurnHooverDamIntoAGiantBattery} In ideal conditions they might have a lifespan of 7-10 years. \cite{LifePredictionModelForLiIonBattery}
+
+Li-ion batteries have a levelized cost of \$187/MWh today. This cost is expected to more than halve in cost by 2040, reducing them to an LCOE of \$67/MWh. Assuming a linear decline in cost, the average cost will be \$127/MWh over the next twenty years.
+\[ (\$187/MWh + \$67/MWh) / 2 =  \$127/MWh \]
+
+Let's make an assumption that Li-ion prices will halve again by 2060. That would bring down the LCOE to about \$34/MWh. Again, assuming a linear decline in cost, that would give us an average cost of \$110.5/MWh over the next forty years.
+\[ (\$187/MWh + \$34/MWh) / 2 =  \$110.5/MWh \]
+
+We note that over the lifetime of a Li-ion battery, the capacity declines steadily in a nearly-linear fashion from about 75\% to about 40\% of their capacity. \cite{LifePredictionModelForLiIonBattery} We're not certain whether this battery capacity decline is already averaged out in estimations of LCOE, so we will ignore this. But we note that if this has not been properly taken into account, this could strengthen UPHS's advantage over Li-ion.
+
+We will assume a ten year lifespan for Li-ion batteries, although as noted above, this could be lower in practice - possibly closer to 5-7 years.
+
+With these assumptions, we conclude that over forty years, a Li-ion energy storage facility will have to replace their batteries once a decade. So their cost over forty years would be \$442/MWh.
+\[ \$110.5/MWh * 4  = \$442/MWh \]
+
+A UPHS facility can last well over forty years, so its levelized cost does not change. In fact, it could become even cheaper as the plant continues to operate beyond its assumed lifespan. We'll assume it remains constant.
+
+We recall that our conservative LCOE for UPHS was \$63/MWh. And our optimistic estimate was \$15/MWh. So comparing this Li-ion cost over 40 years:
+
+\[ \$442/MWh / \$63/MWh  \approx  7 \]
+\[ \$442/MWh / \$15/MWh  \approx  30 \]
+
+And we determine that over the next forty years, a Li-ion battery installation would cost about 7-30 times more than an equivalent UPHS installation.

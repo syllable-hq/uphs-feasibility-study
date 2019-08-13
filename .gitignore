@@ -7,6 +7,7 @@
 *.bcf
 *.toc
 *.run.xml
+*.out
 *.synctex.gz
 research-private.txt
 underground-pumped-hydroelectric-storage-feasibility-study.pdf

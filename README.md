@@ -4,7 +4,7 @@ Title: Underground Pumped Hydroelectric Storage: A Feasibility Study
 
 Author: Eric Chaves, Syllable Technology and Design
 
-Version: DRAFT 0.0.2
+Version: DRAFT 0.0.3
 
 Published: (Not yet published. Draft 0 was released in August 2019)
 
@@ -16,7 +16,7 @@ This report discusses climate change and our growing need for energy storage. In
 
 As energy sources like wind and solar replace fossil fuels, energy generation will become more variable, and this is expected to drive an exponential growth in demand for energy storage.
 
-This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over long time frames of 40-80 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
+This report argues that underground pumped hydro technology could provide plentiful energy storage at an affordable cost. Over a time frame of 40 years, this solution could be an order of magnitude cheaper than chemical battery solutions like Lithium Ion.
 
 As cited below, recent studies have concluded that stationary energy storage demand is expected to grow exponentially and require $662 billion of investment over the next two decades. Our report advocates that underground pumped hydro could capture much of this market away from Lithium Ion battery installations. We suggest further exploration of underground pumped hydro technology. And we suggest immediate development of the technology on sites which may be deemed suitable for profitable installations.
 
@@ -27,6 +27,10 @@ The report is compiled using [LaTeX](https://www.latex-project.org/). The LaTeX 
 To edit and compile the report, you will need to install some kind of LaTeX tool. I just use a plugin for sublime text editor. [LaTeXTools: A LaTeX Plugin for Sublime Text 2 and 3](https://latextools.readthedocs.io/en/latest/)
 
 ## Version History
+### [0.0.3] - DRAFT 2019-08-13
+#### Added
+- Updates. Added Calculations for UPHS vs Li-ion.
+
 ### [0.0.2] - DRAFT 2019-08-12
 #### Added
 - Added TOC, made edits, finished draft of report with conclusion.

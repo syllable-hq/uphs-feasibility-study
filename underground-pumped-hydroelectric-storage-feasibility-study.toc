@@ -1,62 +1,63 @@
-\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
-\contentsline {subsection}{\numberline {1.1}Climate Change: Risk and Opportunity}{5}{subsection.1.1}
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}Climate Change: Risk and Opportunity}{6}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Green New Deals: Cities Aim for 100\% Renewable Energy by 2050}{6}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Introducing Underground Pumped Hydro Energy Storage}{8}{subsection.1.3}
 \contentsline {subsection}{\numberline {1.4}San Francisco and New York City Commit to Green New Deals}{9}{subsection.1.4}
 \contentsline {section}{\numberline {2}Why Energy Storage?}{11}{section.2}
 \contentsline {subsection}{\numberline {2.1}The State of our Energy Storage}{13}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}What is Pumped Hydro?}{14}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}What is Pumped Hydro?}{13}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Keeping up with Wind and Solar}{15}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}The Uphill Battle to 100\% Renewable Energy}{16}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Lithium-ion Energy Storage: A Good First Step, but Bad at Scale}{17}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Lithium-ion Energy Storage: Projected Costs for California Case Study}{18}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}An Astronomical Expense, but Cheaper Than Nothing}{19}{subsection.2.7}
-\contentsline {subsection}{\numberline {2.8}A Booming Energy Storage Market}{20}{subsection.2.8}
-\contentsline {section}{\numberline {3}Why Pumped Hydro Energy Storage?}{21}{section.3}
-\contentsline {subsection}{\numberline {3.1}The Clear Leader of Bulk Energy Storage}{22}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}What About Compressed Air Storage?}{23}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}What About Other Novel Solutions?}{24}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}A PHS Case Study: The Kaprun Hydroelectric Station}{25}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}A new Era for Pumped Hydro}{26}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Pumped Hydro Pros and Cons}{27}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Towards a long-term vision for Pumped Storage}{27}{subsection.3.7}
-\contentsline {section}{\numberline {4}Why Underground Pumped Hydro Energy Storage?}{28}{section.4}
-\contentsline {section}{\numberline {5}Underground Pumped Hydro Storage, Past Research}{29}{section.5}
-\contentsline {subsection}{\numberline {5.1}Past Research, Predicting Today's Market}{30}{subsection.5.1}
-\contentsline {section}{\numberline {6}Underground Pumped Hydro, Current Research}{32}{section.6}
-\contentsline {subsection}{\numberline {6.1}Underground Gravity Storage With Heavy Piston Design}{32}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Underground Pumped Hydro in Abandoned Mines}{34}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}UPHS Summary of Current Research}{35}{subsection.6.3}
-\contentsline {section}{\numberline {7}Why UPHS is Feasible Today}{35}{section.7}
-\contentsline {subsection}{\numberline {7.1}A Convergence of Favorable Factors for UPHS}{36}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Biggest Challenges for UPHS Today}{38}{subsection.7.2}
-\contentsline {section}{\numberline {8}UPHS Case Study Technical Specifications}{39}{section.8}
-\contentsline {subsection}{\numberline {8.1}PEPC Study: Two-Step Design with Reversible Pump-turbines}{41}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}PEPC Study: General Architecture}{41}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}PEPC Study: Penstock Specifications}{42}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}PEPC Study: Excavated Tunnel Specifications}{42}{subsection.8.4}
-\contentsline {section}{\numberline {9}UPHS Site Selection Considerations}{43}{section.9}
-\contentsline {subsection}{\numberline {9.1}UPHS Site Selection: Geology}{43}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}UPHS Site Selection: GIS Analysis of Water and Elevation}{45}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}UPHS Site Selection: Consideration of Sea Water Usage}{47}{subsection.9.3}
-\contentsline {section}{\numberline {10}UPHS: New Innovations and Hybrid Designs}{48}{section.10}
-\contentsline {section}{\numberline {11}UPHS: Optimized Site Selection}{49}{section.11}
-\contentsline {section}{\numberline {12}UPHS: Estimated Costs and ROI}{49}{section.12}
-\contentsline {subsection}{\numberline {12.1}UPHS Construction Cost (Installed Cost)}{50}{subsection.12.1}
-\contentsline {subsection}{\numberline {12.2}UPHS Operations and Maintenance (O\&M) Costs}{50}{subsection.12.2}
-\contentsline {subsection}{\numberline {12.3}UPHS Levelized Cost of Renewables Combined with Energy Storage}{51}{subsection.12.3}
-\contentsline {subsection}{\numberline {12.4}UPHS: Estimated Levelized Cost of Energy}{54}{subsection.12.4}
-\contentsline {section}{\numberline {13}UPHS: Optimistic Estimated Costs and ROI}{56}{section.13}
-\contentsline {subsection}{\numberline {13.1}UPHS Estimates: Low Interest Rates}{57}{subsection.13.1}
-\contentsline {subsection}{\numberline {13.2}UPHS Estimates: Utilization of Existing Dams}{58}{subsection.13.2}
-\contentsline {subsection}{\numberline {13.3}UPHS Estimates: Cheaper Tunnel Costs}{59}{subsection.13.3}
-\contentsline {subsection}{\numberline {13.4}UPHS Calculated Optimistic Estimated Cost}{59}{subsection.13.4}
-\contentsline {section}{\numberline {14}UPHS Versus Lithium Ion Chemical Batteries}{60}{section.14}
-\contentsline {subsection}{\numberline {14.1}UPHS Plus Lithium Ion Batteries}{63}{subsection.14.1}
-\contentsline {section}{\numberline {15}Conclusion}{64}{section.15}
-\contentsline {section}{\numberline {16}Appendix}{66}{section.16}
-\contentsline {subsection}{\numberline {16.1}Calculations for Pumped Storage with Heavy Piston Design}{66}{subsection.16.1}
-\contentsline {subsection}{\numberline {16.2}Calculation of New York City Daily Energy Usage}{70}{subsection.16.2}
-\contentsline {subsection}{\numberline {16.3}Calculation of Vertical Shaft Volume and Cost}{71}{subsection.16.3}
-\contentsline {subsection}{\numberline {16.4}Calculation of LCOE for UPHS}{72}{subsection.16.4}
-\contentsline {subsection}{\numberline {16.5}Calculation of LCOE for UPHS (Optimistic)}{73}{subsection.16.5}
+\contentsline {subsection}{\numberline {2.5}Lithium-ion Energy Storage: A Good First Step, but Bad at Scale}{16}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Lithium-ion Energy Storage: Projected Costs for California Case Study}{17}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}An Astronomical Expense, but Cheaper Than Nothing}{18}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}A Booming Energy Storage Market}{19}{subsection.2.8}
+\contentsline {section}{\numberline {3}Why Pumped Hydro Energy Storage?}{20}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Clear Leader of Bulk Energy Storage}{21}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}What About Compressed Air Storage?}{21}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}What About Other Novel Solutions?}{22}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}A PHS Case Study: The Kaprun Hydroelectric Station}{23}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}A new Era for Pumped Hydro}{24}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Pumped Hydro Pros and Cons}{24}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Towards a long-term vision for Pumped Storage}{25}{subsection.3.7}
+\contentsline {section}{\numberline {4}Why Underground Pumped Hydro Energy Storage?}{26}{section.4}
+\contentsline {section}{\numberline {5}Underground Pumped Hydro Storage, Past Research}{27}{section.5}
+\contentsline {subsection}{\numberline {5.1}Past Research, Predicting Today's Market}{28}{subsection.5.1}
+\contentsline {section}{\numberline {6}Underground Pumped Hydro, Current Research}{30}{section.6}
+\contentsline {subsection}{\numberline {6.1}Underground Gravity Storage With Heavy Piston Design}{30}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Underground Pumped Hydro in Abandoned Mines}{31}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}UPHS Summary of Current Research}{32}{subsection.6.3}
+\contentsline {section}{\numberline {7}Why UPHS is Feasible Today}{33}{section.7}
+\contentsline {subsection}{\numberline {7.1}A Convergence of Favorable Factors for UPHS}{34}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Biggest Challenges for UPHS Today}{35}{subsection.7.2}
+\contentsline {section}{\numberline {8}UPHS Case Study Technical Specifications}{36}{section.8}
+\contentsline {subsection}{\numberline {8.1}PEPC Study: Two-Step Design with Reversible Pump-turbines}{37}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}PEPC Study: General Architecture}{37}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}PEPC Study: Penstock Specifications}{38}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}PEPC Study: Excavated Tunnel Specifications}{39}{subsection.8.4}
+\contentsline {section}{\numberline {9}UPHS Site Selection Considerations}{40}{section.9}
+\contentsline {subsection}{\numberline {9.1}UPHS Site Selection: Geology}{40}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}UPHS Site Selection: GIS Analysis of Water and Elevation}{41}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}UPHS Site Selection: Consideration of Sea Water Usage}{43}{subsection.9.3}
+\contentsline {section}{\numberline {10}UPHS: New Innovations and Hybrid Designs}{44}{section.10}
+\contentsline {section}{\numberline {11}UPHS: Optimized Site Selection}{44}{section.11}
+\contentsline {section}{\numberline {12}UPHS: Estimated Costs and ROI}{45}{section.12}
+\contentsline {subsection}{\numberline {12.1}UPHS Construction Cost (Installed Cost)}{45}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}UPHS Operations and Maintenance (O\&M) Costs}{45}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}UPHS Levelized Cost of Renewables Combined with Energy Storage}{46}{subsection.12.3}
+\contentsline {subsection}{\numberline {12.4}UPHS: Estimated Levelized Cost of Energy}{48}{subsection.12.4}
+\contentsline {section}{\numberline {13}UPHS: Optimistic Estimated Costs and ROI}{51}{section.13}
+\contentsline {subsection}{\numberline {13.1}UPHS Estimates: Low Interest Rates}{51}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}UPHS Estimates: Utilization of Existing Dams}{52}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}UPHS Estimates: Cheaper Tunnel Costs}{53}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}UPHS Calculated Optimistic Estimated Cost}{53}{subsection.13.4}
+\contentsline {section}{\numberline {14}UPHS Versus Lithium Ion Chemical Batteries}{55}{section.14}
+\contentsline {subsection}{\numberline {14.1}UPHS Plus Lithium Ion Batteries}{58}{subsection.14.1}
+\contentsline {section}{\numberline {15}Conclusion}{59}{section.15}
+\contentsline {section}{\numberline {16}Appendix}{60}{section.16}
+\contentsline {subsection}{\numberline {16.1}Calculations for Pumped Storage with Heavy Piston Design}{60}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Calculation of New York City Daily Energy Usage}{63}{subsection.16.2}
+\contentsline {subsection}{\numberline {16.3}Calculation of Vertical Shaft Volume and Cost}{64}{subsection.16.3}
+\contentsline {subsection}{\numberline {16.4}Calculation of LCOE for UPHS}{65}{subsection.16.4}
+\contentsline {subsection}{\numberline {16.5}Calculation of LCOE for UPHS (Optimistic)}{66}{subsection.16.5}
+\contentsline {subsection}{\numberline {16.6}Calculations for UPHS vs Li-ion}{68}{subsection.16.6}
