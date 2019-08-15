@@ -10,7 +10,7 @@
 
 ## The Report
 - Full report: [report.pdf](report.pdf)
-- Report summary: [Report Summary](https://docs.google.com/presentation/d/1EFg7fQ_jjPPCZWxUW-pokUQ_UCXMgvSn-oeTiowVLZs/edit?usp=sharing)
+- Report summary: [Report Summary](resources/underground-pumped-hydroelectric-storage-feasibility-study-summary.pdf)
 
 ## Summary
 This report discusses climate change and our growing need for energy storage. In particular, it discusses a particular technology called Underground Pumped Hydroelectric Storage.
