@@ -94,7 +94,7 @@ We start with our original estimated cost of UPHS construction which is \$1,300,
 To determine our LCOE, we'll use NREL's formula for Simple Levelized Cost of Energy.
 
 \begin{displayquote}
-sLCOE = {(overnight capital cost * capital recovery factor + fixed O\&M cost) / (8760 * capacity factor)} + (fuel cost * heat rate) + variable O\&M cost. \cite{SimpleLevelizedCostOfEnergyCalculator}
+sLCOE = \{(overnight capital cost * capital recovery factor + fixed O\&M cost) / (8760 * capacity factor)\} + (fuel cost * heat rate) + variable O\&M cost. \cite{SimpleLevelizedCostOfEnergyCalculator}
 \end{displayquote}
 
 We'll remove variable O\&M cost and fuel cost. We assume a capacity factor of 30\%. We define overnight capital cost as $C_i$ dollars per installed kilowatt (\$/kW). We assume a lifetime of 40 years. We'll assume the fixed O\&M costs are (2.5\% * $C_i$) dollars per kilowatt-year (\$/kW-yr). We define capital recovery factor as CRF, which per NREL, is defined as the following where i is the interest rate and n is the number of years.
@@ -115,8 +115,8 @@ Using our initial cost above, we determine our value of $C_i$ in dollars per ins
 
 \[ C_i = \$1,300,000,000 / 1,000,000kW = \$1300/kW\]
 
-This gives us a LCOE of about \$0.063/kW, or \cent 6.3/kW
-\[ LCOE \approx \$(0.00004844 * 1300)/kW \approx \$0.063/kW \]
+This gives us a LCOE of about \$0.063/kWh, or \cent 6.3/kWh
+\[ LCOE \approx \$(0.00004844 * 1300)/kWh \approx \$0.063/kWh \]
 
 
 \subsection{Calculation of LCOE for UPHS (Optimistic)}
@@ -153,8 +153,8 @@ Using our initial cost above, we determine our value of $C_i$ in dollars per ins
 
 \[ C_i = \$663,000,000 / 1,000,000kW = \$663/kW\]
 
-This gives us a LCOE of about \$0.015/kW, or \cent 1.5/kW
-\[ LCOE \approx \$(0.000022113 * 663)/kW \approx \$0.015/kW \]
+This gives us a LCOE of about \$0.015/kWh, or \cent 1.5/kWh
+\[ LCOE \approx \$(0.000022113 * 663)/kWh \approx \$0.015/kWh \]
 
 \subsection{Calculations for UPHS vs Li-ion}
 Li-ion batteries have a lifespan of only 5-10 years. \cite{The3BillionPlanToTurnHooverDamIntoAGiantBattery} In ideal conditions they might have a lifespan of 7-10 years. \cite{LifePredictionModelForLiIonBattery}
