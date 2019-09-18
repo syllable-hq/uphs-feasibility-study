@@ -4,7 +4,7 @@
 
 **Author**: Eric Chaves, Syllable Technology and Design
 
-**Version**: DRAFT 0.0.4
+**Version**: DRAFT 0.1.0
 
 **Published**: (Not yet published. Draft 0 was released in August 2019)
 
@@ -35,6 +35,11 @@ The report is compiled using [LaTeX](https://www.latex-project.org/). The LaTeX 
 To edit and compile the report, you will need to install some kind of LaTeX tool. I just use a plugin for sublime text editor. [LaTeXTools: A LaTeX Plugin for Sublime Text 2 and 3](https://latextools.readthedocs.io/en/latest/)
 
 ## Version History
+### [0.1.0] - DRAFT 2019-09-18
+#### Added
+- Correction: Corrected some energy units which were mis-labeled (the calculations were still correct)
+- Made many updates based on new research indicating that Li-ion batteries could last 20 years. See cited article: "A Wide Range of Testing Results on an Excellent Lithium-Ion CellChemistry to be used as Benchmarks for New Battery Technologies". These updates shifted some calculations in favor of Li-ion, though UPHS is still shown to be cheaper under all estimated sceneries.
+
 ### [0.0.4] - DRAFT 2019-08-28
 #### Added
 - Correction: The cost of $2.5 trillion to transition to 80\% wind and solar energy was previously stated as the cost for California alone. This is in fact the projected cost for all of the United States. This error was due to an initial mis-reading of the technologyreview.com article: "The $2.5 trillion reason we can't rely on batteries to clean up the grid".

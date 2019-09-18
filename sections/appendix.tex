@@ -89,22 +89,24 @@ The PNL report estimates that the lower reservoir of a UPHS plant would likely r
 
 
 \subsection{Calculation of LCOE for UPHS}
-We start with our original estimated cost of UPHS construction which is \$1,300,000,000.
+According to the PNL report, the total direct cost of a UPHS plant built in 1983 would be estimated at $\$500 * 10^6$ for a 1000-MW plant in 1983 dollars.\cite{UndergroundPumpedHydroelectricStorage} (about \$1.3 billion in today's dollars. \cite{CPIInflationCalculator}). Note that this works out to \$1,300/kW.
 
-To determine our LCOE, we'll use NREL's formula for Simple Levelized Cost of Energy.
+We will base our LCOE calculation on this UPHS construction cost of \$1,300,000,000 for a 1000-MW plant.
+
+Our calculation will use NREL's formula for Simple Levelized Cost of Energy:
 
 \begin{displayquote}
 sLCOE = \{(overnight capital cost * capital recovery factor + fixed O\&M cost) / (8760 * capacity factor)\} + (fuel cost * heat rate) + variable O\&M cost. \cite{SimpleLevelizedCostOfEnergyCalculator}
 \end{displayquote}
 
-We'll remove variable O\&M cost and fuel cost. We assume a capacity factor of 30\%. We define overnight capital cost as $C_i$ dollars per installed kilowatt (\$/kW). We assume a lifetime of 40 years. We'll assume the fixed O\&M costs are (2.5\% * $C_i$) dollars per kilowatt-year (\$/kW-yr). We define capital recovery factor as CRF, which per NREL, is defined as the following where i is the interest rate and n is the number of years.
+We'll remove variable O\&M cost and fuel cost which are not relevant for pumped hydro. We assume a capacity factor of 30\%. We define overnight capital cost as $C_i$ dollars per installed kilowatt (\$/kW). We assume a lifetime of 40 years. We'll assume the fixed O\&M costs are (2.5\% * $C_i$) dollars per kilowatt-year (\$/kW-yr). We define capital recovery factor as CRF, which per NREL, is defined as the following where i is the interest rate and n is the number of years.
 \[ \displaystyle CRF={\frac {i(1+i)^{n}}{(1+i)^{n}-1}} \]
 
 This gives us:
 \[ LCOE = ((C_i * CRF) + (.025 * C_i)) / (8760 * .3) \]
 
 We will assume a conservative rate of 10\% interest. At 10\% interest over 40 years, our CRF is about 0.1023
-\[ \displaystyle CRF={\frac {0.03(1+0.03)^{40}}{(1+0.03)^{40}-1}} \]
+\[ \displaystyle CRF={\frac {0.1(1+0.1)^{40}}{(1+0.1)^{40}-1}} = 0.10225941441 \]
 
 Which gives us:
 \[ LCOE = (0.1023C_i + .025C_i) / 2628 \]
@@ -115,12 +117,18 @@ Using our initial cost above, we determine our value of $C_i$ in dollars per ins
 
 \[ C_i = \$1,300,000,000 / 1,000,000kW = \$1300/kW\]
 
-This gives us a LCOE of about \$0.063/kWh, or \cent 6.3/kWh
+This gives us a LCOE for UPHS of about \$0.063/kWh, or \cent 6.3/kWh
 \[ LCOE \approx \$(0.00004844 * 1300)/kWh \approx \$0.063/kWh \]
 
+We note that this estimate may be simplified and idealized. We also note that it is about 2.4 times cheaper than the lowest contemporary estimate we could find for pumped hydro storage.
+\[ 0.15 / 0.063 = \approx 2.4\]
+
+This discrepancy could be due to a number of factors. One factor could be that contemporary estimates of pumped hydro projects may average out the costs of actual built projects. Some of these built projects may have suffered from cost overruns, or they may have been built on less suitable locations with smaller overall capacities which would have lost economies of scale. Underground pumped storage could arguably avoid such risks as it is not as site dependent. See \textit{Comparison of researched LCOE for PHS, UPHS, and Li-ion Batteries}.
 
 \subsection{Calculation of LCOE for UPHS (Optimistic)}
-Here we will re-calculate the above LCOE using more optimistic predictions. The original estimated cost of UPHS construction was \$1,300,000,000. We speculate that this cost could be feasibly lowered by 25\% if a UPHS plant was built onto an existing dam. This brings the cost down to \$975,000,000.
+Here we will re-calculate the above LCOE using more optimistic predictions.
+
+The original estimated cost of UPHS construction was \$1,300,000,000. We speculate that this cost could be feasibly lowered by 25\% if a UPHS plant was built onto an existing dam. This brings the cost down to \$975,000,000.
 
 We divide this into two costs: The cost of tunneling and everything else.
 
@@ -139,27 +147,28 @@ Adding these costs back together we get \$663 Million.
 We take note that this price is just about half of our original estimated construction cost.
 \[  \$663,000,000  / \$1,300,000,000 = .51 \approx .5 \]
 
-To determine our LCOE, we'll use the same NREL formula mentioned above. We'll again remove variable O\&M cost and fuel cost. We'll assume a lifetime of 80 years which is reasonable for PHS. All other assumptions are the same including a capacity factor of 30\%.
+To determine our LCOE, we'll use the same NREL formula mentioned above. We'll again remove variable O\&M cost and fuel cost. We'll assume a lifetime of 40 years which is conservative for PHS. All other assumptions are the same including a capacity factor of 30\%.
 
-As discussed above, the current 30 Year US Treasury Rate is very low at 2.26\%. We will use an optimistic value of 3\% interest. At 3\% interest over 80 years, our CRF is about 0.03311.
-\[ \displaystyle CRF={\frac {0.03(1+0.03)^{80}}{(1+0.03)^{80}-1}} \]
+As discussed above, the current 30 Year US Treasury Rate is very low at 2.26\%. We will use an optimistic value of 3\% interest. At 3\% interest over 40 years, our CRF is about 0.0433.
+\[ \displaystyle CRF={\frac {0.03(1+0.03)^{40}}{(1+0.03)^{40}-1}} = 0.04326237789 \]
 
 Which gives us:
-\[ LCOE = (0.03311C_i + .025C_i) / 2628 \]
+\[ LCOE = (0.0433C_i + .025C_i) / 2628 \]
 which reduces to
-\[ LCOE \approx 0.000022113 C_i \]
+\[ LCOE \approx 0.00002599 C_i \]
 
 Using our initial cost above, we determine our value of $C_i$ in dollars per installed kilowatt. Our value is for a 1,000MW capacity plant (1,000,000kW).
 
 \[ C_i = \$663,000,000 / 1,000,000kW = \$663/kW\]
 
-This gives us a LCOE of about \$0.015/kWh, or \cent 1.5/kWh
-\[ LCOE \approx \$(0.000022113 * 663)/kWh \approx \$0.015/kWh \]
+This gives us a LCOE of about \$0.017/kWh, or \$17/MWh, or \cent 1.7/kWh.
+\[ LCOE \approx \$(0.00002599 * 663)/kWh \approx \$0.017/kWh \]
 
-\subsection{Calculations for UPHS vs Li-ion}
-Li-ion batteries have a lifespan of only 5-10 years. \cite{The3BillionPlanToTurnHooverDamIntoAGiantBattery} In ideal conditions they might have a lifespan of 7-10 years. \cite{LifePredictionModelForLiIonBattery}
 
-Li-ion batteries have a levelized cost of \$187/MWh today. This cost is expected to more than halve in cost by 2040, reducing them to an LCOE of \$67/MWh. Assuming a linear decline in cost, the average cost will be \$127/MWh over the next twenty years.
+\subsection{Calculation of LCOE for Li-ion}
+Li-ion batteries currently have a lifespan of only 5-10 years. \cite{The3BillionPlanToTurnHooverDamIntoAGiantBattery} In ideal conditions they might have a lifespan of 7-10 years. \cite{LifePredictionModelForLiIonBattery}
+
+Li-ion batteries have a levelized cost of \$187/MWh today. This cost is expected to more than halve in cost by 2040, reducing them to an LCOE of \$67/MWh. Assuming a linear decline in cost, the average cost will be \$127/MWh over the next twenty years. \cite{NewEnergyOutlook2019Report}
 \[ (\$187/MWh + \$67/MWh) / 2 =  \$127/MWh \]
 
 Let's make an assumption that Li-ion prices will halve again by 2060. That would bring down the LCOE to about \$34/MWh. Again, assuming a linear decline in cost, that would give us an average cost of \$110.5/MWh over the next forty years.
@@ -167,16 +176,101 @@ Let's make an assumption that Li-ion prices will halve again by 2060. That would
 
 We note that over the lifetime of a Li-ion battery, the capacity declines steadily in a nearly-linear fashion from about 75\% to about 40\% of their capacity. \cite{LifePredictionModelForLiIonBattery} We're not certain whether this battery capacity decline is already averaged out in estimations of LCOE, so we will ignore this. But we note that if this has not been properly taken into account, this could strengthen UPHS's advantage over Li-ion.
 
-We will assume a ten year lifespan for Li-ion batteries, although as noted above, this could be lower in practice - possibly closer to 5-7 years.
+We will assume a ten year lifespan for Li-ion batteries. As noted above, this could be lower in practice - possibly closer to 5-7 years. As noted below, it could also be larger due to technological advancements. But this has yet to be fully validated.
 
-With these assumptions, we conclude that over forty years, a Li-ion energy storage facility will have to replace their batteries once a decade. So their cost over forty years would be \$442/MWh.
-\[ \$110.5/MWh * 4  = \$442/MWh \]
+With these assumptions, we conclude that over forty years, if a Li-ion energy storage facility had to replace their batteries once a decade, their cost over forty years would be \$332/MWh.
+\[ \$110.5/MWh * 3 \approx \$332/MWh \]
 
-A UPHS facility can last well over forty years, so its levelized cost does not change. In fact, it could become even cheaper as the plant continues to operate beyond its assumed lifespan. We'll assume it remains constant.
+\subsection{Calculation of LCOE for Li-ion (Optimistic, dependent on Technology Advances)}
+As mentioned above, Li-ion batteries currently have a lifespan of only 5-10 years (see \textit{Calculation of LCOE for Li-ion}).
 
-We recall that our conservative LCOE for UPHS was \$63/MWh. And our optimistic estimate was \$15/MWh. So comparing this Li-ion cost over 40 years:
+New research has emerged however which suggests that lifespans of lithium ion batteries may be stretched to 20 years. \cite{ExcellentLithiumIonCellChemistry} This research was done by Jeff Dahn and his lab, who are doing battery research for Tesla, Inc. The gains are attributed to a design which includes a next-generation “single crystal” NMC cathode and a new advanced electrolyte.
 
-\[ \$442/MWh / \$63/MWh  \approx  7 \]
-\[ \$442/MWh / \$15/MWh  \approx  30 \]
+Using this new optimistic figure, we can conclude that over forty years, a Li-ion energy storage facility would only need to replace their batteries once. So their cost over forty years would be \$221/MWh.
+\[ \$110.5/MWh * 2  = \$221/MWh \]
 
-And we determine that over the next forty years, a Li-ion battery installation would cost about 7-30 times more than an equivalent UPHS installation.
+We note that this figure is now within the ranges of research cited below (see \textit{Comparison of researched LCOE for PHS, UPHS, and Li-ion Batteries}).
+
+
+\subsection{Comparison of researched LCOE for PHS, UPHS, and Li-ion Batteries}
+In the sections above, we calculated a simplified LCOE for UPHS. We determined that the LCOE was \$0.063/kWh based on research from the 1980s (See \textit{Calculation of LCOE for UPHS}). We acknowledge that this estimate may be a simplified calculation which may ignore certain factors. Although we could find little to no contemporary research about UPHS pricing, in this section we compare our findings with more contemporary research for PHS pricing in general.
+
+We also calculated a LCOE for Li-ion energy storage projected over 40 years. We determined that it could be somewhere between \$221/MWh and \$332/MWh. This correlates with outside research as we will show below.
+
+The Lazard Energy Storage Report is one of the most trusted industry sources for price analysis. In 2016, the report determined the following for unsubsidized levelized costs of storage at grid-scale (transmission system)\cite{LazardsLevelizedCostOfStorageAnalysis2016Version2}:
+
+\begin{tabular}{ ll }
+Pumped Storage: & \$152/MWh - \$198/MWh  (about \$0.15/kWh - \$0.2/kWh) \\
+Lithium-Ion: & \$267/MWh - \$561/MWh  (about \$0.25/kWh - \$0.55/kWh) \\
+\end{tabular}
+
+As shown, in 2016, pumped storage was estimated to about 6 times cheaper than lithium-ion on average for grid-scale applications.
+\[ ((561-267)/2) / ((198-152) / 2) \approx 6.4 \]
+
+Examining only the low estimates, pumped storage was estimated to be almost half the cost of lithium-ion for grid-scale applications.
+\[ 267 / 152 \approx 1.8 \]
+
+Unfortunately, Lazard began omitting PHS in 2017. Despite the very low LCOS (levelized cost of storage), it seems that the Lazard report decided to lump PHS into technologies with “limited current or future commercial deployment expectations.” \cite{LazardsLevelizedCostOfStorageAnalysis2018Version4} As discussed above, this is likely due to concerns over steep upfront costs and the diminishing availability of sites for new dam construction. However, Lazard is now expected to reincorporate PHS into the upcoming 2019 version of their report, according to researchers working with the San Diego County Water Authority. \cite{PumpedEnergyStorageVitalToCalifornia}
+
+In their 2019 research paper, the same San Diego group calculated their own LCOS estimates for both PHS and Li-ion: \cite{PumpedEnergyStorageVitalToCalifornia}
+
+\begin{tabular}{ ll }
+Pumped Storage: & \$177/MWh  (about \$0.18/kWh) \\
+Lithium-Ion: & \$218/MWh - \$285/MWh  (about \$0.22/kWh - \$0.29/kWh) \\
+\end{tabular}
+
+Summarizing their findings, the San Diego group concludes that even with drastic technology improvements for Li-ion, over a 40 year time frame “[Li-ion] batteries will remain overall more expensive than pumped storage — possibly 50\% more expensive than pumped storage.” \cite{PumpedEnergyStorageVitalToCalifornia} This is a notably different conclusion from some competing research which concludes that Li-ion will become cheaper than pumped storage.\cite{ProjectingTheFutureLevelizedCostOfElectricityStorageTechnologies} But the San Diego group believes that their research is more complete. They argue that the estimated lifetime cost of Li-ion increases after considering the nuances of long term financing. They explain: “Compared with pumped storage, the capital cost for these [Li-ion] projects is lower (\$285,000/MWh to \$452,000/MWh), but that cost must be paid back more rapidly because the lifetime of these [Li-ion] projects is shorter. The overall effect is to make batteries more expensive than pumped storage when those costs are levelized over the relevant time period.” \cite{PumpedEnergyStorageVitalToCalifornia}
+
+Further, the San Diego group showed that PHS projects could continue to operate beyond 50 years with relatively little maintenance cost. Building on the existing infrastructure, the second 50 years of a PHS project has an extremely low LCOS of only \$58/MWh  (about \$0.06/kWh).
+
+
+Summarizing this range of cost estimates:
+We note that our LCOS estimate for UPHS based on 1980s data is significantly lower at \$63/MWh than contemporary estimates which show costs closer to \$150/MWh or \$175/MWh. Further research is needed to analyze this price gap and determine which details account for the difference (note that inflation has already been considered).
+
+We acknowledge that these various estimates for UPHS have a wide range. But this should perhaps be expected considering that 1: Large UPHS projects have never been constructed before, and 2: Even contemporary research shows a fair amount of variation since it draws data from many disparate projects, each with geographic and financial differences.
+
+Based on this range, our conservative estimate for UPHS will be \$177/MWh. Our optimistic LCOS baseline for UPHS will be \$63/MWh, which is based on our analysis of the 1980s PNL research. Finally, our very-optimistic LCOS will be \$17/MWh based on optimistic circumstantial improvements in favor of UPHS. See \textit{Calculation of LCOE for UPHS (Optimistic)}.
+
+
+Based on the ranges of LCOE estimates for Li-ion batteries, we will use \$220/MWh as a feasible, best-case scenario for Li-ion. And we'll use \$285/MWh as a still feasible conservative cost for Li-ion. It's important to note that this is not a worst case scenario by any means. In fact, it is arguably still optimistic as it assumes that Li-ion technology will drastically improve in the coming decades.
+
+\noindent\textbf{Summarizing all of the above:}
+\begin{itemize}
+  \item PHS LCOS estimates in 2016 were about 2-6 times cheaper than Li-ion.
+  \item PHS LCOS estimates today, are still expected to be cheaper than Li-ion over a 40 year time frame.
+  \item PHS facilities can extend their lifespan for 100 years or more with very low additional cost.
+  \item UPHS cost estimates are projected to be about the same cost or cheaper than PHS in general.
+\end{itemize}
+
+We conclude that UPHS facilities built in the near future will be cheaper, maybe even far cheaper, than Li-ion facilities over the next 40-100 years.
+
+\noindent\textbf{40-year LCOE values for UPHS and Li-ion}
+
+\begin{tabular}{ llll }
+UPHS (conservative): & \$177/MWh & Li-ion (conservative): & \$285/MWh \\
+UPHS (optimistic): & \$63/MWh & Li-ion (optimistic): & \$220/MWh \\
+UPHS (very-optimistic): & \$17/MWh \\
+\end{tabular}
+
+\subsection{LCOE comparisons for UPHS vs Li-ion Batteries}
+Based on the section above (see \textit{Comparison of researched LCOE for PHS, UPHS, and Li-ion Batteries}), we will now make direct comparisons of the 40-year LCOE predictions for UPHS and Li-ion batteries. We will calculate these based on various combinations of predicted outcomes. We note that even under the best case scenario for Li-ion, UPHS is still cheaper.
+
+\noindent\textbf{Unbiased Cases for Li-ion and UPHS}
+\begin{itemize}
+  \item Optimistic UPHS is 3.5 times cheaper than optimistic Li-ion (220/63)
+  \item Conservative UPHS is 1.6 times cheaper than conservative Li-ion (285/177)
+\end{itemize}
+
+\noindent\textbf{Best Cases for Li-ion}
+\begin{itemize}
+  \item Conservative UPHS is still 1.2 times cheaper than optimistic Li-ion (220/177)
+\end{itemize}
+
+\noindent\textbf{Best Cases for UPHS}
+\begin{itemize}
+  \item Optimistic UPHS is 4.5 times cheaper than conservative Li-ion (285/63)
+  \item Highly-optimistic UPHS is $\sim{13}$ times cheaper than optimistic Li-ion (220/17)
+  \item Highly-optimistic UPHS is $\sim{17}$ times cheaper than conservative Li-ion (285/17)
+\end{itemize}
+
+
