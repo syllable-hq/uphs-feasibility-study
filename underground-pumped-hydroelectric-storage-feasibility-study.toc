@@ -53,7 +53,7 @@
 \contentsline {subsection}{\numberline {13.3}UPHS Estimates: Cheaper Tunnel Costs}{54}{subsection.13.3}
 \contentsline {subsection}{\numberline {13.4}UPHS Calculated Optimistic Estimated Cost}{54}{subsection.13.4}
 \contentsline {section}{\numberline {14}UPHS Versus Lithium-Ion Chemical Batteries}{55}{section.14}
-\contentsline {subsection}{\numberline {14.1}UPHS Plus Lithium-Ion Batteries}{58}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.1}UPHS Together with Lithium-Ion Batteries}{58}{subsection.14.1}
 \contentsline {section}{\numberline {15}Conclusion}{59}{section.15}
 \contentsline {section}{\numberline {16}Appendix}{60}{section.16}
 \contentsline {subsection}{\numberline {16.1}Calculations for Pumped Storage with Heavy Piston Design}{60}{subsection.16.1}
