@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "petercroce",
+      "name": "Peter Croce",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10724084?v=4",
+      "profile": "https://petercroce.org",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "uphs-feasibility-study",
+  "projectOwner": "syllable-hq",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
