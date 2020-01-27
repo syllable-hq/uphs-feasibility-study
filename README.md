@@ -4,7 +4,7 @@
 
 **Author**: Eric Chaves, Syllable Technology and Design
 
-**Version**: DRAFT 0.1.0
+**Version**: DRAFT 0.1.1
 
 **Published**: (Not yet published. Draft 0 was released in August 2019)
 
@@ -69,6 +69,10 @@ Thanks for your interest and for supporting mission driven work!
 — Syllable
 
 ## Version History
+### [0.1.1] - DRAFT 2020-01-27
+#### Edits and Additions
+- Made edits and added some more information, mostly about the duck curve and its implications for renewable energy.
+
 ### [0.1.0] - DRAFT 2019-09-18
 #### Added
 - Correction: Corrected some energy units which were mis-labeled (the calculations were still correct)
